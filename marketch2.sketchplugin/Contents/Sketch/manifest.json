@@ -1,0 +1,31 @@
+{
+  "name": "marketch2",
+  "version": "1.0.0",
+  "description": "",
+  "author": "anhulife",
+  "authorEmail": "anhulife@gmail.com",
+  "commands": [
+    {
+      "script": "zip.cocoascript",
+      "handler" : "onRun",
+      "shortcut": "",
+      "name": "导出",
+      "identifier": "export"
+    },
+    {
+      "script": "checkupdate.cocoascript",
+      "handler" : "onRun",
+      "shortcut": "",
+      "name": "检查更新...",
+      "identifier": "checkupdate"
+    }
+  ],
+  "menu": {
+    "items": [
+      "export",
+      "checkupdate"
+    ],
+    "title" : "marketch2"
+  },
+  "identifier": "me.anhulife.marketch2"
+}
