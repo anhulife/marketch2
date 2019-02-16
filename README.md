@@ -1,6 +1,6 @@
 # Marketch2
 
-基于 [Marketch](https://github.com/tudou527/marketch) 做了定制，[下载地址](dist/marketch2.sketchplugin.zip)。
+基于 [Marketch](https://github.com/tudou527/marketch) 做了定制，[下载地址](https://github.com/anhulife/marketch2/raw/master/dist/marketch2.sketchplugin.zip)。
 
 为了更快的导出速度和更流畅的浏览体验，修改如下：
 
